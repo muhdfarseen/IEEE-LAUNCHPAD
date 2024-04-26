@@ -17,6 +17,7 @@
 | **Vaccamate**  | Replaced pen and paper mode of vaccine record. A react application that helps parents to manageand get reminder of next vaccine for their childrenalso share vaccination record digitally | [Vaccamate](https://vaccamate.vercel.app/)    | [Vaccamate](https://github.com/muhdfarseen/Vaccamate)             
 | **College IEDC Website**  | Solved attendance related problems for students faced while attending IEDC’s workshops and events by implementing a feature to download their absentee report form, site also has the option to generate certificatesfor participants of events                                             | [IEDC TLY](https://iedctly.org/)    | [IEDC TLY](https://github.com/muhdfarseen/iedc_website)             |
 | **UI/UX Case Study**  | etlab (campus management system) Application User App Redesign                                              | [Case Study](https://medium.com/@muhdfarseen/ui-ux-case-study-etlab-application-redesign-9db052c26ab1)    | -             |
+
 ---
 
 
@@ -69,6 +70,7 @@
 | Chief Creative Officer (CCO) | IEDC CE TLY          | Oct 2022 - May 2023 |
 | Design Team Lead          | IEDC CE TLY              | May 2021 - Oct 2022 |
 | Design Team Lead          | Hack Club Coet           | Jan 2021 - Sep 2021 |
+
 ---
 
 #### Highly Visible Technical Content:
