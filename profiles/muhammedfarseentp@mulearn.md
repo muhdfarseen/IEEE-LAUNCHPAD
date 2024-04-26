@@ -31,6 +31,7 @@
 | Graphic Designer Intern   | Out Of The Box         | Feb 2022 - Dec 2022 |
 | Graphic Designer Intern   | AtlierBiz              | May 2021 - Feb 2022 |
 
+
 ---
 #### Leadership and Influence:
 
